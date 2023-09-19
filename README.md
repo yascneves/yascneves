@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-My name is Yasmim. Currently a student of Internet Computing from IFSUL de Minas :)
+I'm Yasmim. Currently a student of Internet Computing from IFSUL de Minas :)
 
 <!--
 **yascneves/yascneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
