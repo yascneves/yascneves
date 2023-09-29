@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yascneves&show_icons=true&locale=en&theme=panda" alt="yascneves" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yascneves&theme=panda" alt="yascneves" /></p>
